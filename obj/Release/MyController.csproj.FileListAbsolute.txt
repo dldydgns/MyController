@@ -1,0 +1,12 @@
+C:\Users\Hoon\Desktop\MyController\MyController\bin\Release\MyController.exe.config
+C:\Users\Hoon\Desktop\MyController\MyController\bin\Release\MyController.exe
+C:\Users\Hoon\Desktop\MyController\MyController\bin\Release\MyController.pdb
+C:\Users\Hoon\Desktop\MyController\MyController\obj\Release\MyController.csproj.AssemblyReference.cache
+C:\Users\Hoon\Desktop\MyController\MyController\obj\Release\MyController.csproj.SuggestedBindingRedirects.cache
+C:\Users\Hoon\Desktop\MyController\MyController\obj\Release\MyController.Form_Games.resources
+C:\Users\Hoon\Desktop\MyController\MyController\obj\Release\MyController.MainForm.resources
+C:\Users\Hoon\Desktop\MyController\MyController\obj\Release\MyController.Properties.Resources.resources
+C:\Users\Hoon\Desktop\MyController\MyController\obj\Release\MyController.csproj.GenerateResource.cache
+C:\Users\Hoon\Desktop\MyController\MyController\obj\Release\MyController.csproj.CoreCompileInputs.cache
+C:\Users\Hoon\Desktop\MyController\MyController\obj\Release\MyController.exe
+C:\Users\Hoon\Desktop\MyController\MyController\obj\Release\MyController.pdb
